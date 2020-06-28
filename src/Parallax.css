@@ -1,0 +1,38 @@
+.graddiv{
+    background: linear-gradient(to right, #FF5D3B 0%, orangered 30%, #ffbc00 100%) !important;
+}
+.fa-pen-square{
+    font-size: 35rem;
+}
+@media only screen and (max-width: 600px) {
+    .fa-pen-square{
+        font-size: 6rem;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    .fa-pen-square{
+        font-size: 11rem;
+    }
+}
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .fa-pen-square{
+        font-size: 20rem;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    .fa-pen-square{
+        font-size: 20rem;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    .fa-pen-square{
+        font-size: 30rem;
+    }  
+}

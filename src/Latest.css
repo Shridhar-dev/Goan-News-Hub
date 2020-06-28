@@ -1,0 +1,16 @@
+svg{
+    color:black;
+}
+svg:hover{
+    color:orangered;
+}
+.card-img-top{
+    transition: transform .8s;
+    
+}
+.card-img-top:hover{
+    transform: scale(1.5);
+}
+.zoomer{
+    overflow: hidden;
+}
