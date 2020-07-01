@@ -13,6 +13,7 @@ import Bloggers from './Bloggers';
 import Podcast from './Podcast';
 import Community from './Community';
 import DevNotes from './DevNotes';
+import MemeKing from './MemeKing';
 function App() {
   return (
     <div className="App">
@@ -24,6 +25,7 @@ function App() {
       <Photogeek />
       <Bloggers/>
       <Podcast />
+      <MemeKing />
       <Startups />
       <Community />
       <DevNotes />

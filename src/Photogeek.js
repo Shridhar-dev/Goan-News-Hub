@@ -1,6 +1,5 @@
 import React from 'react';
 import fhs from './foto shastra.jpg';
-import fhsi from './foto shastra im.jpg';
 import ry from './rohanyuri.jpg';
 import ss from './ss.jpg';
 import db from './druvb.jpg';
