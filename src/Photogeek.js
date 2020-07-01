@@ -32,7 +32,7 @@ class Photogeek extends React.Component{
                     </div>
                     <div class="col-12 col-sm-12 col-md-6 col-xl-4 pt-4 pb-4 bord">
                         <a href="https://www.instagram.com/sainand_salgaonkar_/">
-                            <img src={ss} class="roundimg"/><span class="px-3 h4 pt-2">Sainand Salgoankar</span>
+                            <img src={ss} class="roundimg"/><span class="px-3 h4 pt-2">Sainand Salgaonkar</span>
                         </a>
                     </div>
                     <div class="col-12 col-sm-12 col-md-6 col-xl-4 pt-4 pb-4 bord">
