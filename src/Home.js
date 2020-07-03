@@ -15,7 +15,7 @@ import DevNotes from './DevNotes';
 import MemeKing from './MemeKing';
 import Choose from './Choose';
 import {Route , Switch} from 'react-router-dom';
-import CreatorSpotlight from './CreatorSpotlight';
+import CreatorSpotlight from './CreatorSpotlight.js';
 function Home() {
   return (
     <div className="App">
