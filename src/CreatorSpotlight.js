@@ -3,7 +3,6 @@ import fhs from './Images/foto shastra.jpg';
 import vv from './Images/vv.jpg'
 import gj from './Images/gajesh.jpg'
 import kastaad_memes from './Images/kastaad_memes.jpg';
-import './CreatorSpotlight.css';
 import './Photogeek.css';
 import './Explore.css';
 import Roundtext from './Round-text.js';
