@@ -15,6 +15,7 @@ import DevNotes from './DevNotes';
 import MemeKing from './MemeKing';
 import Choose from './Choose';
 import {Route , Switch} from 'react-router-dom';
+import CreatorSpotlight from './CreatorSpotlight';
 function Home() {
   return (
     <div className="App">
@@ -24,6 +25,7 @@ function Home() {
       <Latest/>
       <Explore />
       <Choose />
+      <CreatorSpotlight/>
       <Community />
       <DevNotes />
       <Footer />
