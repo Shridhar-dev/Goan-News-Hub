@@ -1,7 +1,4 @@
 import React from 'react';
-import fb from './fb.png';
-import yt from './yt.png';
-import tw from './tw.png';
 import './Explore.css';
 
 class Explore extends React.Component{

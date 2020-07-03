@@ -1,5 +1,4 @@
 import React from 'react';
-import imghead from './hed.jpg'
 import './Navbar.css';
 class Navbar extends React.Component{
     constructor(){

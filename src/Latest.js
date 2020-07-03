@@ -1,13 +1,13 @@
 import React from 'react';
-import head from './hed.jpg';
+import head from './Images/hed.jpg';
 import './Latest.css';
-import pao from "./pao.jpg";
-import creators from "./creators.jpg";
-import chatbot from "./chatbot.jpg";
-import ocr from "./ocr.jpg";
-import goaday from "./goaday.jpg";
-import covidan from "./covidan.jpg";
-import duckduckgo from "./duckduckgo.jpg";
+import pao from "./Images/pao.jpg";
+import creators from "./Images/creators.jpg";
+import chatbot from "./Images/chatbot.jpg";
+import ocr from "./Images/ocr.jpg";
+import goaday from "./Images/goaday.jpg";
+import covidan from "./Images/covidan.jpg";
+import duckduckgo from "./Images/duckduckgo.jpg";
 import Cards from './Cards'
 class Latest extends React.Component{
     constructor(){

@@ -1,6 +1,6 @@
 import React from 'react';
-import halfcut from './halfcutfinal-clearer.png';
-import icon from './icon.png';
+import halfcut from './Images/halfcutfinal-clearer.png';
+import icon from './Images/icon.png';
 import './Header.css';
 
 class Header extends React.Component{

@@ -1,5 +1,4 @@
 import React from 'react';
-import icon from './icon.png';
 import './Know.css';
 
 class Know extends React.Component{
