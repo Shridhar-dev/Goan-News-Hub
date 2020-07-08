@@ -1,22 +1,13 @@
 import React from 'react';
 import './App.css';
-import Header from "./Header.js"
-import Navbar from "./Navbar.js"
-import Latest from "./Latest.js"
-import Explore from "./Explore.js"
-import Photogeek from "./Photogeek.js"
-import Know from "./Know.js"
-import Footer from "./Footer.js"
-import Startups from './Startups';
-import Bloggers from './Bloggers';
-import Podcast from './Podcast';
-import Community from './Community';
-import DevNotes from './DevNotes';
-import MemeKing from './MemeKing';
-import Choose from './Choose';
-import Home from './Home';
+import Photogeek from "./Code/Photogeek.js"
+import Startups from './Code/Startups';
+import Bloggers from './Code/Bloggers';
+import Podcast from './Code/Podcast';
+import MemeKing from './Code/MemeKing';
+import Home from './Code/Home';
 import {Route , Switch} from 'react-router-dom';
-import ComingSoon from './comingsoon';
+import ComingSoon from './Code/comingsoon';
 function App() {
   return (
     <div className="App">
