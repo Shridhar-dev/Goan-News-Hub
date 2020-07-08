@@ -1,0 +1,17 @@
+.roundimg{
+    border-radius: 500px;
+    height: 100px;
+}
+.roundimg2{
+    border-radius: 2000px;
+    height: 100px;
+}
+.bord:hover{
+   border:1px solid #FF5D3B;
+}
+.hI{
+    width:100%
+}
+.bi-arrow-left-short{
+    font-size:40px;
+}
